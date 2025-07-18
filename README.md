@@ -169,7 +169,6 @@ Validation: 5-fold cross-validation
 
 Metrics: Accuracy, Precision, Recall, F1-score
 
-https://i.imgur.com/placeholder.png (Add model diagram here)
 
 Hardware Setup
 Components
